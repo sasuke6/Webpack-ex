@@ -1,6 +1,6 @@
 Webpack-ex
 
-#How to use
+# How to use
 
 ```
 npm install
